@@ -1,0 +1,20 @@
+.btn-default{
+	color: #676a6c;
+	border: 1px #eee solid;
+}
+
+.btn-default:hover{
+	background-color: #f3f3f4;
+	color: #676a6c;
+	border: 1px #eee solid;
+}
+
+.article-row p{
+	font-size: 16px;
+	margin-bottom: 0;
+	font-weight: 400;
+}
+
+#poster-event h3{
+	float: left;
+}
